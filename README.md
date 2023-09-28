@@ -3,5 +3,7 @@ A CSS cheat sheet website. I was mainly focusing on learning on how to use flexb
 
 I was also practicing responsive design since those boxes must be sized correctly which also affects it's positioning on the page.
 
+View website here: [https://elmfer.github.io/miniproject-02/](https://elmfer.github.io/miniproject-02/)
+
 ### Screenshot
 ![Screenshot](screenshot.png)
